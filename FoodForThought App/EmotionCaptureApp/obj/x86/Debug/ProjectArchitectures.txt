@@ -1,0 +1,1 @@
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\EmotionCaptureApp.csproj;x86

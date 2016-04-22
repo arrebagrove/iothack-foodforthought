@@ -1,0 +1,431 @@
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\ApplicationInsights.config
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\App.xbf
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.xr.xml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.exe
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.pdb
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\resources.pri
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\AppxManifest.xml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Core\AppxManifest.xml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Core\EmotionCaptureApp.exe
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.build.appxrecipe
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.CSharp.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Core.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Numerics.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Windows.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Xml.Linq.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Xml.Serialization.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Xml.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.AppContext.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Collections.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Collections.Immutable.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Collections.Specialized.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Data.Common.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Globalization.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.IO.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.IO.Compression.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\ClrCompression.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.IO.FileSystem.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Linq.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Linq.Expressions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Linq.Parallel.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Linq.Queryable.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Primitives.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Requests.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Sockets.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ObjectModel.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Private.Networking.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Private.Uri.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Context.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Emit.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Handles.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Security.Claims.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Security.Principal.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Text.Encoding.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Threading.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Threading.Tasks.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Threading.Timer.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Xml.XDocument.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.csprojResolveAssemblyReference.cache
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\App.g.i.cs
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\App.g.cs
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\App.xaml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\App.xbf
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.exe
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.pdb
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\ResourceHandlingTask.state
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\priconfig.xml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\priconfig.xml.intermediate
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\layout.resfiles
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\layout.resfiles.intermediate
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\resources.resfiles
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\resources.resfiles.intermediate
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\pri.resfiles
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\pri.resfiles.intermediate
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\qualifiers.txt
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\ProjectArchitectures.txt
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Newtonsoft.Json.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\FaceRecognizerPage.xbf
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.g.i.cs
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.g.cs
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.xaml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.xbf
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.ProjectOxford.Face.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.ProjectOxford.Common.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\EmotionCapturePage.xbf
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.g.i.cs
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.g.cs
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.xaml
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.xbf
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.Azure.Amqp.Uwp.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Microsoft.Azure.Devices.Client.winmd
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\PCLCrypto.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\bin\x86\Debug\Validation.dll
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\Validation\en-US\Validation.Strings.resw
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.csproj.GenerateResource.Cache
+C:\AzureML Readiness\Sample Code\FoodForThought\EmotionCaptureApp\obj\x86\Debug\PCLCrypto.pri.xml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\ApplicationInsights.config
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\App.xbf
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\FaceRecognizerPage.xbf
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\EmotionCapturePage.xbf
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.xr.xml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.exe
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.pdb
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\resources.pri
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\AppxManifest.xml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Core\EmotionCaptureApp.exe
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\EmotionCaptureApp.build.appxrecipe
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.Azure.Amqp.Uwp.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.Azure.Devices.Client.winmd
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Core.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Numerics.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Windows.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Xml.Linq.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Xml.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\PCLCrypto.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.AppContext.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Collections.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Data.Common.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Globalization.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.IO.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.IO.Compression.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\ClrCompression.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Linq.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Primitives.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Requests.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.Sockets.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ObjectModel.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Private.Networking.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Private.Uri.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Context.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Security.Claims.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Security.Principal.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Text.Encoding.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Threading.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Threading.Timer.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\bin\x86\Debug\Validation.dll
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.csprojResolveAssemblyReference.cache
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\App.g.i.cs
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\App.g.cs
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.g.i.cs
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.g.cs
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.g.i.cs
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.g.cs
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\App.xaml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.xaml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.xaml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\App.xbf
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FaceRecognizerPage.xbf
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCapturePage.xbf
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.exe
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.pdb
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\EmotionCaptureApp.csproj.GenerateResource.Cache
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\priconfig.xml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\layout.resfiles
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\resources.resfiles
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\pri.resfiles
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\qualifiers.txt
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\PCLCrypto.pri.xml
+C:\Solution Files\Github Local\iothack-foodforthought\FoodForThought App\EmotionCaptureApp\obj\x86\Debug\ProjectArchitectures.txt
