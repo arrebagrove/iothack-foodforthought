@@ -1,0 +1,81 @@
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.exe.config
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.pdb
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Buffers.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Codecs.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Common.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Handlers.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Transport.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.ServiceBus.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Mono.Security.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Newtonsoft.Json.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\PCLCrypto.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Validation.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.ServiceBus.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Newtonsoft.Json.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\PCLCrypto.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\System.Net.Http.Formatting.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\bin\Debug\Validation.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.csprojResolveAssemblyReference.cache
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.pdb
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.exe.config
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.exe
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.pdb
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.exe
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.pdb
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Buffers.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Codecs.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Common.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Handlers.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Transport.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.ServiceBus.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Mono.Security.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Newtonsoft.Json.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\PCLCrypto.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\System.Net.Http.Formatting.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Validation.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.ServiceBus.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Newtonsoft.Json.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\PCLCrypto.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\System.Net.Http.Formatting.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\bin\Debug\Validation.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.csprojResolveAssemblyReference.cache
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.csprojResolveAssemblyReference.cache
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.exe.config
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.exe
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.pdb
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Buffers.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Codecs.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Common.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Handlers.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DotNetty.Transport.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Mono.Security.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\PCLCrypto.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Validation.dll
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\PCLCrypto.xml
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\Validation.xml
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.exe
+C:\Users\sukritis\Desktop\IOTHubSample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.pdb
+C:\PERSONAL\WORK\STUDY MATERIAL\IOTHackathon 18-19Apr-2016\IOTHubSample\IOTHubSample\DeviceToCloudSample\bin\Debug\DeviceToCloudSample.exe.config
+C:\PERSONAL\WORK\STUDY MATERIAL\IOTHackathon 18-19Apr-2016\IOTHubSample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.exe
+C:\PERSONAL\WORK\STUDY MATERIAL\IOTHackathon 18-19Apr-2016\IOTHubSample\IOTHubSample\DeviceToCloudSample\obj\Debug\DeviceToCloudSample.pdb
