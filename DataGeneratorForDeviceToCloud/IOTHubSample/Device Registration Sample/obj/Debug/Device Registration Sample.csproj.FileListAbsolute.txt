@@ -1,0 +1,31 @@
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Device Registration Sample.exe.config
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Device Registration Sample.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Device Registration Sample.pdb
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Newtonsoft.Json.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\System.Web.Http.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\Newtonsoft.Json.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\System.Net.Http.Formatting.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\bin\Debug\System.Web.Http.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\obj\Debug\Device Registration Sample.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\Device Registration Sample\obj\Debug\Device Registration Sample.pdb
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Device Registration Sample.exe.config
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\obj\Debug\Device Registration Sample.exe
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\obj\Debug\Device Registration Sample.pdb
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Device Registration Sample.exe
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Device Registration Sample.pdb
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Devices.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Newtonsoft.Json.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\System.Net.Http.Formatting.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\System.Web.Http.dll
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Microsoft.Azure.Devices.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\Newtonsoft.Json.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\System.Net.Http.Formatting.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\bin\Debug\System.Web.Http.xml
+C:\AzureML Readiness\Sample Code\IOTHubSample\Device Registration Sample\obj\Debug\Device Registration Sample.csprojResolveAssemblyReference.cache

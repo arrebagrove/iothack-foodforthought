@@ -1,0 +1,6 @@
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\IOTHubSample\bin\Debug\IOTHubSample.exe.config
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\IOTHubSample\bin\Debug\IOTHubSample.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\IOTHubSample\bin\Debug\IOTHubSample.pdb
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\IOTHubSample\obj\Debug\IOTHubSample.csprojResolveAssemblyReference.cache
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\IOTHubSample\obj\Debug\IOTHubSample.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\IOTHubSample\obj\Debug\IOTHubSample.pdb

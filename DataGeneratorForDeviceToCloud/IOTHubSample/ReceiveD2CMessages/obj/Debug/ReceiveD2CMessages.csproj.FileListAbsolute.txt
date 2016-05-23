@@ -1,0 +1,7 @@
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\ReceiveD2CMessages\bin\Debug\ReceiveD2CMessages.exe.config
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\ReceiveD2CMessages\bin\Debug\ReceiveD2CMessages.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\ReceiveD2CMessages\bin\Debug\ReceiveD2CMessages.pdb
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\ReceiveD2CMessages\bin\Debug\Microsoft.ServiceBus.dll
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\ReceiveD2CMessages\bin\Debug\Microsoft.ServiceBus.xml
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\ReceiveD2CMessages\obj\Debug\ReceiveD2CMessages.exe
+C:\Solution Files\.NET Projects\Azure IOT Hub Sample\IOTHubSample\ReceiveD2CMessages\obj\Debug\ReceiveD2CMessages.pdb
