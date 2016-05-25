@@ -9,7 +9,7 @@ namespace ReceiveD2CMessages
 {
     class Program
     {
-        static string connectionString = "HostName=iotsink.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4tgFsMpiX4OJg6+GFuDvy2PWUvr2fncHSn27W3OANrk=";
+        static string connectionString = "<Enter your IOT Hub connection string>";
         static string iotHubD2cEndpoint = "messages/events";
         static EventHubClient eventHubClient;
 
