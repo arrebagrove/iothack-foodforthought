@@ -11,7 +11,7 @@ namespace Device_Registration_Sample
     class Program
     {
         static RegistryManager registryManager;
-        static string connectionString = "HostName=foodforthoughtiothub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=DQn6/nYBV4WBt808p3smx6qGpAEz8iTD+s5Z+qrWrk8=";
+        static string connectionString = "<Enter your IOT Hub connection string>";
 
         static void Main(string[] args)
         {
