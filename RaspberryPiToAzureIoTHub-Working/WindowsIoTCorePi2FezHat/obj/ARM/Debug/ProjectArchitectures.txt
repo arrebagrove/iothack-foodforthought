@@ -1,0 +1,1 @@
+C:\pi-code\End\WindowsIoTCorePi2FezHat\WindowsIoTCorePi2FezHat.csproj;arm
