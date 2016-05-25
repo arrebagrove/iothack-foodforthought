@@ -1,6 +1,6 @@
 # iothack-foodforthought
 
-This is a sample app created during the IoT Hack in Bangalore (April, 2016). 
+This is a sample app created during our Microsoft IoT Hack in Bangalore (April, 2016). Our solution is detailed below:
 
 There are a lot of organizations where food is served in the cafetaria from the food bins. Our motive is to reduce the amount of leftover food in bins everyday. We follow this process:
 
