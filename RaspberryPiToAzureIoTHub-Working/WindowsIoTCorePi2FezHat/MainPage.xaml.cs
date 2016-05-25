@@ -35,7 +35,7 @@ namespace WindowsIoTCorePi2FezHat
                 new ConnectTheDotsSensor(0, "Kg", 0, "Celsius")
             };
             
-            ctdHelper = new ConnectTheDotsHelper(iotDeviceConnectionString: "HostName=foodforthoughtiothub.azure-devices.net;DeviceId=RaspberryScale2;SharedAccessKey=rbfciKTp1rIrgjC8wiYayIEcf6Ql8pLtgG4ymprtlkc=",
+            ctdHelper = new ConnectTheDotsHelper(iotDeviceConnectionString: "<enter your connection string here>",
                 sensorList: sensors);
         }
 
@@ -53,22 +53,17 @@ namespace WindowsIoTCorePi2FezHat
         {
             // Light Sensor
             ConnectTheDotsSensor lSensor = ctdHelper.sensors.Find(item => item.UOM1 == "Kg");
-            lSensor.LightLevel = this.hat.GetLightLevel();  //Using Light as weight
+            lSensor.RemainingWeight = this.hat.GetLightLevel();  //Using Light as weight
             lSensor.Temperature = this.hat.GetTemperature();    //Temperature reading
 
             this.ctdHelper.SendSensorData(lSensor);
 
-            this.LightTextBox.Text = lSensor.LightLevel.ToString("P2", CultureInfo.InvariantCulture);
-            this.LightProgress.Value = lSensor.LightLevel;
-
-            // Temperature Sensor
-            //var tSensor = ctdHelper.sensors.Find(item => item.measurename == "Temperature");
-            //tSensor.value = this.hat.GetTemperature();
-            //this.ctdHelper.SendSensorData(tSensor);
+            this.LightTextBox.Text = lSensor.RemainingWeight.ToString("P2", CultureInfo.InvariantCulture);
+            this.LightProgress.Value = lSensor.RemainingWeight;
 
             this.TempTextBox.Text =  lSensor.Temperature.ToString("N2", CultureInfo.InvariantCulture);
 
-            System.Diagnostics.Debug.WriteLine("Temperature: {0} °C, Light {1}", lSensor.Temperature.ToString("N2", CultureInfo.InvariantCulture), lSensor.LightLevel.ToString("P2", CultureInfo.InvariantCulture));
+            System.Diagnostics.Debug.WriteLine("Temperature: {0} °C, Light {1}", lSensor.Temperature.ToString("N2", CultureInfo.InvariantCulture), lSensor.RemainingWeight.ToString("P2", CultureInfo.InvariantCulture));
         }
 
         private async void CommandsTimer_Tick(object sender, object e)

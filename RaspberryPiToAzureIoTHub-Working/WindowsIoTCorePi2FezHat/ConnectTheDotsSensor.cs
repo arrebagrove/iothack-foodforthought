@@ -13,13 +13,9 @@ namespace WindowsIoTCorePi2FezHat
     /// </summary>
     public class ConnectTheDotsSensor
     {
-        //public string guid { get; set; }
         public string DeviceId { get; set; }
         public string MenuItem { get; set; }
-        //public string location { get; set; }
-        //public string measurename { get; set; }
-        //public string unitofmeasure { get; set; }
-        public double LightLevel { get; set; }
+        public double RemainingWeight { get; set; }
         public string UOM1 { get; set; }
         public double Temperature { get; set; }
         public string UOM2 { get; set; }
@@ -40,7 +36,7 @@ namespace WindowsIoTCorePi2FezHat
         /// <param name="unitofmeasure"></param>
         public ConnectTheDotsSensor(double LightLevel, string UOM1, double Temperature, string UOM2)
         {
-            this.LightLevel = LightLevel;
+            this.RemainingWeight = LightLevel;
             this.UOM1 = UOM1;
             this.Temperature = Temperature;
             this.UOM2 = UOM2;

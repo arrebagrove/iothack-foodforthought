@@ -9,16 +9,16 @@
     <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>f8c2ba50-8da1-46f2-b7da-e2ea1c4f0ef1</PackageIdentityName>
-    <IntermediateOutputPath>C:\pi-code\End\WindowsIoTCorePi2FezHat\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\obj\ARM\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\bin\ARM\Debug\WindowsIoTCorePi2FezHat.exe">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\bin\ARM\Debug\WindowsIoTCorePi2FezHat.exe">
       <PackagePath>entrypoint\WindowsIoTCorePi2FezHat.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sakirtan\.nuget\packages\GHIElectronics.UWP.LowLevelDrivers\0.0.6\lib\.NETCore50\GHIElectronics.UWP.LowLevelDrivers.dll">
@@ -348,45 +348,45 @@
     <AppxPackagedFile Include="C:\Users\sakirtan\.nuget\packages\Microsoft.Azure.Devices.Client\1.0.0-preview-006\lib\uap10.0\Microsoft.Azure.Devices.Client.winmd">
       <PackagePath>Microsoft.Azure.Devices.Client.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\bin\ARM\Debug\WindowsIoTCorePi2FezHat.xr.xml">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\bin\ARM\Debug\WindowsIoTCorePi2FezHat.xr.xml">
       <PackagePath>WindowsIoTCorePi2FezHat.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\pi-code\End\WindowsIoTCorePi2FezHat\bin\ARM\Debug\Core\WindowsIoTCorePi2FezHat.exe">
+    <AppxPackagedFile Include="C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\bin\ARM\Debug\Core\WindowsIoTCorePi2FezHat.exe">
       <PackagePath>WindowsIoTCorePi2FezHat.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

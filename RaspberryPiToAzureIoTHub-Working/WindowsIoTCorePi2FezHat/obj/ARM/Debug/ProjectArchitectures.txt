@@ -1,1 +1,1 @@
-C:\pi-code\End\WindowsIoTCorePi2FezHat\WindowsIoTCorePi2FezHat.csproj;arm
+C:\Users\sakirtan\Documents\iot-hack-blr\iothack-foodforthought\RaspberryPiToAzureIoTHub-Working\WindowsIoTCorePi2FezHat\WindowsIoTCorePi2FezHat.csproj;arm
