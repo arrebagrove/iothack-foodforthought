@@ -17,13 +17,11 @@ namespace DeviceToCloudSample
 
         static DeviceClient deviceClient;
         static DeviceClient deviceClient2;
-        //static string iotHubUri = "iotsink.azure-devices.net";
-        //static string deviceKey = "LkG9TE0xysixjB2fEbZEhT4d8AlzKqrNIIU8XxiojqE=";
+    
 
 
-
-        static string DeviceConnectionString = "HostName=foodforthoughtiothub.azure-devices.net;DeviceId=GurgaonFootfallSensor1;SharedAccessKey=Kw21TMjsv9rned06BJVSgeXUum57DMVypLlkZl5sW+o=";
-        static string DeviceConnectionString2 = "HostName=foodforthoughtiothub.azure-devices.net;DeviceId=BangaloreFootfallSensor1;SharedAccessKey=ZzXLSrhoT3XxnTmJf6E1kVRdJFVZYoGZ7P6i7MYWnqo=";
+        static string DeviceConnectionString = "<Enter your key>";
+        static string DeviceConnectionString2 = "<Enter your key>";
 
         static void Main(string[] args)
         {
@@ -158,7 +156,6 @@ namespace DeviceToCloudSample
                     windSpeed = currentWindSpeed
                 };
                 var messageString = JsonConvert.SerializeObject(telemetryDataPoint);
-                //var message = new Message(Encoding.UTF8.GetBytes(messageString));
                 var message = new Message(Encoding.ASCII.GetBytes(messageString));
 
                 await deviceClient2.SendEventAsync(message);
