@@ -9,7 +9,7 @@ namespace IOTHubSample
     class Program
     {
         public string DeviceId = "Thermostat3";
-        public string DeviceAuthKey = "LkG9TE0xysixjB2fEbZEhT4d8AlzKqrNIIU8XxiojqE=";
+        public string DeviceAuthKey = "<enter your device key here>";
         static void Main(string[] args)
         {
         }
