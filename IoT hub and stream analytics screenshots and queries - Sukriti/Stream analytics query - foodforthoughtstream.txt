@@ -1,0 +1,44 @@
+SELECT
+    MenuItem,    
+    TimeFlag,    
+    RemainingWeight,
+    UOM1,
+    Temperature,
+    UOM2,
+    DeviceID,
+	BinSrNo    
+INTO
+    fftrawstream
+FROM
+    fftinputstream1
+	
+SELECT
+    MenuItem,    
+    TimeFlag,    
+    RemainingWeight,
+    UOM1,
+    Temperature,
+    UOM2,
+    DeviceID,
+	BinSrNo    
+INTO
+    IoTHack
+FROM
+    fftinputstream1
+
+SELECT 
+Expression, 
+edatetime 
+INTO 
+	emotionalsink 
+	FROM 
+	emotioncontent
+	
+SELECT
+CafeteriaID,
+SwipeInTime,
+Persons
+INTO
+	footfalloutputstorage
+	FROM
+	footfallinput
