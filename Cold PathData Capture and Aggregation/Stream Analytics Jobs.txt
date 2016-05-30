@@ -1,0 +1,60 @@
+Azure Stream Analytics Job - queries
+
+With FootFallData AS
+(	
+SELECT
+	CafeteriaID,
+	DATEADD(millisecond, -DATEPART(millisecond,SwipeInTime), DATEADD(second, -DATEPART(second,SwipeInTime),DATEADD(minute,-DATEPART(minute,SwipeInTime),SwipeInTime))) as HourlyDateTime,
+	Persons
+FROM
+	 footfallinput
+)
+
+SELECT
+    MenuItem,    
+    TimeFlag,    
+    RemainingWeight,
+    UOM1,
+    Temperature,
+    UOM2,
+    DeviceID,
+	BinSrNo    
+INTO
+    fftrawstream
+FROM
+    fftinputstream1
+	
+SELECT
+    MenuItem,    
+    TimeFlag,    
+    RemainingWeight,
+    UOM1,
+    Temperature,
+    UOM2,
+    DeviceID,
+	BinSrNo    
+INTO
+    IoTHack
+FROM
+    fftinputstream1
+
+SELECT
+	CafeteriaID, 
+	HourlyDateTime,
+	Sum(Persons)
+INTO
+	footfallpowerBI
+FROM FootFallData
+GROUP BY CafeteriaID,HourlyDateTime, TumblingWindow(hour,1)
+
+SELECT
+	CafeteriaID, 
+	HourlyDateTime,
+	Sum(Persons)
+INTO
+	footfalloutputstorage
+FROM FootFallData
+GROUP BY CafeteriaID,HourlyDateTime, TumblingWindow(hour,1)
+
+
+SELECT Expression, edatetime INTO emotionalsink FROM emotioncontent

@@ -1,0 +1,20 @@
+In ssh session - type hive     // this will initialize hive and then we can execute the below
+drop table if exists rawdata;
+
+create external table rawdata (menuitem string, timeflag string, remainingweight double, uom1 string, temperature double, uom2 string, deviceid string, binsrno double) partitioned by (year int, month int, day int) row format delimited fields terminated by ',' lines terminated by  '\n'  stored as textfile location 'wasb://rawfeed@foodforthoughtstorage.blob.core.windows.net/data' tblproperties ("skip.header.line.count"="1");
+
+Alter table rawdata Add if not exists partition (year=2016, month = 5, day = 22) location 'wasb://rawfeed@foodforthoughtstorage.blob.core.windows.net/data/2016/05/22';
+
+Select * from rawdata;
+
+
+Select menuitem string, day string, season string, weight double, footfall integer, daytype string leftoverpercent double;
+
+Drop table if exists refineddata;
+
+CREATE TABLE refineddata as Select menuitem, split(timeflag,'T')[0] as dateofscan, min(remainingweight) as minwt, binsrno, avg(temperature) as avtemperature from rawdata where year=2016 and month = 5 and day = 22 group by menuitem, binsrno, split(timeflag,'T')[0];
+
+Select * from refineddata;
+
+Drop table if exists aggteddata;
+CREATE TABLE aggteddata as Select menuitem, dateofscan, sum(minwt) as foodwasted, count(binsrno), avg(avtemperature) as avtemp from refineddata group by menuitem, dateofscan;
