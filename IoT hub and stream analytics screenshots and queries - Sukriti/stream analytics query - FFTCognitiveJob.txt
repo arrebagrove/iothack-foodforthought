@@ -1,0 +1,15 @@
+SELECT
+   	[datetime] as SwipeTime, 
+	Expression
+INTO
+    feelingsstore
+FROM
+    emotionalatyachaar
+	
+SELECT
+   	[datetime] as SwipeTime, 
+	Expression
+INTO
+    sentiment
+FROM
+    emotionalatyachaar
